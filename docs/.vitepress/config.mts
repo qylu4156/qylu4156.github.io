@@ -22,7 +22,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/qylu4156' },
+      { icon: 'linkedin', link: 'https://www.linkedin.com/in/qingyuanlu/' }
     ]
   }
 })

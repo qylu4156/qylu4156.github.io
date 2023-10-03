@@ -5,13 +5,12 @@ layout: home
 hero:
   name: "Qingyuan Lu"
   text: "Personal site and portfolio"
-  tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: About
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: Project examples
       link: /api-examples
 
 features:
@@ -23,3 +22,8 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
+# Rest of text
+insert example text
+
+
+Test stuff
