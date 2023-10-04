@@ -8,22 +8,14 @@ hero:
   actions:
     - theme: brand
       text: About
-      link: /markdown-examples
+      link: /about
     - theme: alt
       text: Project examples
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Massachusetts Institute of Technology
+    details: BS in Computation and Cognition, Minor in Mathematics, 5.0 GPA
+  - title: Interests
+    details: Software Engineering, Research, Machine Learning, Safe and Reliable AI
 ---
-
-# Rest of text
-insert example text
-
-
-Test stuff

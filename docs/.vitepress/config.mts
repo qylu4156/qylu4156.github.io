@@ -8,17 +8,26 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'About', link: '/about' }
     ],
 
     sidebar: [
+      //TODO: how to have sidebar item that's just a direct link and not a list? send to abt page
       {
-        text: 'Examples',
+        text: 'General',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Home', link: '/' },
+          { text: 'About', link: '/about' }
+        ]
+      },
+      
+      {
+        text: 'Project examples',
+        items: [
+          { text: '[]', link: '/'},
         ]
       }
+
     ],
 
     socialLinks: [
