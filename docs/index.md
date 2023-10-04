@@ -10,8 +10,8 @@ hero:
       text: About
       link: /about
     - theme: alt
-      text: Project examples
-      link: /api-examples
+      text: Project samples
+      link: /projects
 
 features:
   - title: Massachusetts Institute of Technology

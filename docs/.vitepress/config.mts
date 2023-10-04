@@ -8,7 +8,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'About', link: '/about' }
+      { text: 'About', link: '/about' },
+      { text: 'Projects', link: '/projects' }
     ],
 
     sidebar: [
@@ -17,14 +18,24 @@ export default defineConfig({
         text: 'General',
         items: [
           { text: 'Home', link: '/' },
-          { text: 'About', link: '/about' }
+          { text: 'About', link: '/about' },
         ]
       },
-      
+
       {
-        text: 'Project examples',
+        text: 'Project samples',
         items: [
-          { text: '[]', link: '/'},
+          { text: 'Project directory', link: '/projects'},
+          {
+            text: 'Work projects', items: [
+              {}
+            ]
+          },
+          {
+            text: 'Course projects', items: [
+              {text: 'MIT 9.60 Machine-Motivated Human Vision', link: '/960'}
+            ]
+          }
         ]
       }
 
