@@ -4,6 +4,8 @@ I graduated from MIT in June 2023 with a B.S in Computation and Cognition, an in
 
 As a recent graduate, I am currently looking for jobs in Software Engineering/Development to build practical skills in working on complicated software projects deployed in the real world, with a long-term goal of working in more research-related roles in the future.
 
+Note: I changed my first name late 2022 so some of my previous work is credited under a different name.
+
 
 ## Work experiences
 **Concordia Consulting: AI Safety Affiliate (Jun 2023-Nov 2023)**

@@ -2,6 +2,8 @@
 
 A selection of projects completed for undergraduate research, internships, and coursework.
 
+Note: I changed my first name late 2022 so some of my previous work is credited under a different name.
+
 
 ## Work Projects
 

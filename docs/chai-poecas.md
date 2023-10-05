@@ -3,5 +3,5 @@
 ## Project Report
 <details open>
 <summary>Collapse</summary>
-<object data='./assets/LSNZRicra23.pdf' width='100%' height=800></object>
+<object data='/LSNZRicra23.pdf' width='100%' height=800></object>
 </details>
