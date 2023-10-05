@@ -11,13 +11,13 @@ I extended a framework for ethically compliant autonomous systems to work with e
 
 Skills: ethical AI, MDPs, POMDPs, traditional planning, linear programming, CPLEX, Python, Docker, linux servers, research, paper writing
 
-[**MIT Interactive Robotics Group: Multi-agent RL Communication in Continuous Embedding Space**](/irg-multiagent)
+[**MIT Interactive Robotics Group: Multiagent RL Communication in Continuous Embedding Space**](/irg-multiagent)
 
 I implemented code features for a project studying the effects of allowing agents in multiagent RL settings to communicate in a continuous embedding space analagous to word embeddings used in language models.
 
 Skills: reinforcement learning, training ML models, PyTorch, Python, data visualization, information theory, research
 
-[**MIT Experimental Phonetics Lab: Phonotactic Alternations**](/epl-alternations)
+[**MIT Experimental Phonetics Lab: Learning Phonotactic Alternations**](/epl-alternations)
 
 I wrote software for linguistics experiments on human participants to test their ability to learn certain sound patterns in an artificial language.
 
@@ -37,7 +37,7 @@ I compared how machine vision systems and humans differ in their ability to iden
 
 Skills: machine vision, training ML models, human participants research, Python, jsPsych, JavaScript, research
 
-[**MIT 6.8610 Quantitative Natural Language Processing: Quantifying Multi-Class Bias in Word Embeddings**](/68610)
+[**MIT 6.8610 Quantitative Methods for Natural Language Processing: Quantifying Multi-Class Bias in Word Embeddings**](/68610)
 
 I devised a novel metric for bias in word embeddings for types of bias which are not binary, including racial bias.
 
