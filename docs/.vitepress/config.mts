@@ -29,9 +29,9 @@ export default defineConfig({
           {
             text: 'Work projects', items: [
               {text: 'CHAI PO-ECAS', link: '/chai-poecas'},
-              {text: 'Interactive Robotics Group Multiagent Communication', link: '/irg-multiagent'},
-              {text: 'Experimental Phonetics Lab Learning Alternations', link: '/epl-alternations'},
-              {text: 'AbbVie Dual Learning', link: '/abbvie-dual'}
+              // {text: 'Interactive Robotics Group Multiagent Communication', link: '/irg-multiagent'},
+              // {text: 'Experimental Phonetics Lab Learning Alternations', link: '/epl-alternations'},
+              // {text: 'AbbVie Dual Learning', link: '/abbvie-dual'}
             ]
           },
           {
