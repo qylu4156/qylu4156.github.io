@@ -61,3 +61,10 @@ Skills: rational analysis, Bayesian analysis, human participants research, Pytho
 I tested whether an alternate model architecture for speech recognition systems allows them to produce internal representations that are more recognizable to humans.
 
 Skills: speech recognition, training ML models, TensorFlow, human participants research, research
+
+## Other Projects
+[**References to AI Safety in International Policy Documents (External Link)**](https://docs.google.com/document/d/1Bz26k43LepMtPp4pZS4O0U3uoWhVKORpgLqpStMAFoc)
+
+As part of a mentorship program in AI Governance, I compiled a listing of references to AI Safety in documents from Chinese government agencies and large companies.
+
+Skills: AI Governance, policy research, Chinese, writing, communication

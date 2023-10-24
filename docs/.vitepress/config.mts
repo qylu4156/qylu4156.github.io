@@ -41,6 +41,11 @@ export default defineConfig({
               {text: 'MIT 9.66 Computational Cognitive Science', link: '/966'},
               {text: 'MIT 9.58 Projects in the Science of Intelligence', link: '/958'}
             ]
+          },
+          {
+            text: 'Other projects', items: [
+              {text: 'References to AI Safety in International Policy Documents', link:'https://docs.google.com/document/d/1Bz26k43LepMtPp4pZS4O0U3uoWhVKORpgLqpStMAFoc'},
+            ]
           }
         ]
       }
