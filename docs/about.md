@@ -10,44 +10,43 @@ Note: I changed my first name late 2022 so some of my previous work is credited 
 ## Work experiences
 **Concordia Consulting: AI Safety Affiliate (Jun 2023-Nov 2023)**
 - Project-based, ~10hrs/month
-- Assisted with producing and reviewing Chinese-language content about technical AI safety to be posted on the organization's social media pages.
+- Translated and revised texts in English and Chinese about AI safety, including Chinese-language social media posts about technical AI safety for general audiences and translations of Chinese public figures' comments about AI safety for English-speaking audiences.
+
+**Seven Seas Entertainment: Freelance Translator (Jul 2021-Present)**
+- Project-based freelance position.
+- Translated 10 novels from Chinese to English for North American publication, including 3 New York Times best-selling volumes.
 
 **Concordia Consulting: AI Governance Affiliate (Nov 2022-Apr 2023)**
 - Project-based, ~10hrs/month
-- Provided insight about AI governance and development.
-- Reviewed documents about AI safety including socia media posts and submissions to government agencies.
+- Translated and revised texts in English and Chinese about AI safety and governance, including socia media posts and UN submissions.
 
 **Center for Human-Compatible AI: Intern (Jun 2022-Nov 2022)**
 - Full-time during summer, part-time ~10hrs/week during semester
-- Developed a framework for ethically compliant autonomous systems capable of operating in partially observable domains.
-- Devised mathematical equations describing the framework and its solution method.
-- Implemented simulated environments and solver in Python and CPLEX.
-- Ran experiments using Docker.
-- Project produced a paper which is being edited before submission to a conference.
+- Developed a novel mathematical framework for ethically compliant autonomous systems capable of operating in partially observable domains.
+- Implemented simulated environments and solution method in Python and CPLEX.
+- Ran experiments on Linux server using Docker containers.
+- Drafted paper as first author, currently in submission for ICRA 2024.
 
 **MIT Interactive Robotics Group: Undergraduate Researcher (Jan 2022-May 2022)**
 - Part time ~10hrs/week
 - Contributed features to a PyTorch multiagent RL code base to study the effects of a novel method for communication between agents.
-- Created visualizations for communication behavior.
-
-**Seven Seas Entertainment: Freelance Translator (Jul 2021-Present)**
-- Project-based
-- Translated light novels from Chinese to English for North American publication, including 3 New York Times best-selling volumes.
+- Created visualization code to illustrate communication behavior.
 
 **MIT Experimental Phonetics Lab: Undergraduate Researcher (Nov 2019-Mar 2020, Feb 2021-Aug 2021)**
 - Full-time during summer, part-time ~10hrs/week during semester
-- Wrote software for offline and online phonetics experiments using PsychoPy (Visual interface + Python) and PsychoJS (JavaScript).
-- Assisted with running experiments on adult participants.
+- Wrote software for offline and online phonetics experiments using PsychoPy (Visual interface + Python) and PsychoJS (JavaScript) to deploy on Pavlovia online platform and collect hundreds of responses within days.
+- Wrote Python scripts to process thousands of datapoints and analyze results.
+- Assisted with running experiments on adult participants in-person.
 - Recorded and processed speech samples for experiment materials using Praat.
 
 **MIT Concourse: Classical Mechanics Teaching Assistant (Sep 2020-Dec 2020)**
 - Part-time ~12hrs/week
-- Led problem-solving recitations and small group meetings, graded class work as undergraduate TA for introductory physics course.
-- Did one-on-one tutoring.
+- Led problem-solving recitations and small group meetings to support student success in introductory physics course during remote learning. Collaborated with other TAs to grade homework.
+- Tutored 1 student 1-on-1 weekly to provide extra assistance with course material.
 
 **AbbVie: Information Research Intern (Jun 2020-Aug 2020)**
 - Full-time
-- Conducted independent research on a technique to fine-tune machine translation models.
+- Conducted independent research to study a technique to fine-tune machine translation models in low-resource domains using PyTorch. Ran experiments on Linux server.
 
 ## Skills
 **Programming languages**
