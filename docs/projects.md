@@ -9,7 +9,17 @@ Note: I changed my first name late 2022 so some of my previous work is credited 
 
 ## Work Projects
 
-[**Center for Human-Compatible AI: Partially Observable Ethically Compliant Autonomous Systems**](/chai-poecas) [Has project report]
+[**Center for Human-Compatible AI: A STRONGReject for Empty Jailbreaks**](/chai-strongreject) [ICLR 2024 Workshop on Reliable and Responsible Foundation Models; NeurIPS submission in progress]
+
+I helped create a new benchmark for jailbreak attacks against large language models, consisting of 346 harmful prompts aimed to evaluate whether jailbreak attacks enable malicious actors to use LLMs to cause harm and a novel autograding method which achieves SOTA performance on matching fine-grained human judgments of jailbreak quality.
+
+I implemented intelligence evaluations using the Massive Multitask Language Understanding benchmark to show that many jailbreaks degrade model intelligence, decreasing their usefulness for malicious actors.
+
+I finetuned language models to create a new autograder which is easy and cost-effective to run on a laptop CPU, with comparable performance to autograders implemented using the GPT-4 API.
+
+Skills: large language models (LLMs), jailbreaking, benchmark creation, AI safety, AI evaluation, Python, linux, LLM finetuning, machine learning, data analysis, paper writing
+
+[**Center for Human-Compatible AI: Partially Observable Ethically Compliant Autonomous Systems**](/chai-poecas) [ICRA 2024]
 
 I extended a framework for ethically compliant autonomous systems to work with environments with partial observability (described using POMDPs instead of MDPs).
 

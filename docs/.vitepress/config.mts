@@ -28,6 +28,7 @@ export default defineConfig({
           { text: 'Project directory', link: '/projects'},
           {
             text: 'Work projects', items: [
+              {text: 'CHAI STRONGReject', link: '/chai-strongreject'},
               {text: 'CHAI PO-ECAS', link: '/chai-poecas'},
               // {text: 'Interactive Robotics Group Multiagent Communication', link: '/irg-multiagent'},
               // {text: 'Experimental Phonetics Lab Learning Alternations', link: '/epl-alternations'},

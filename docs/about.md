@@ -8,6 +8,12 @@ Note: I changed my first name late 2022 so some of my previous work is credited 
 
 
 ## Work experiences
+**Center for Human-Compatible AI: Intern (Dec 2023-Jun 2024)**
+- Full-time internship
+- Created StrongREJECT, a novel benchmark for jailbreaking attacks against LLMs consisting of 346 prompts for evaluating the potential of jailbreak attacks to enable malicious actors to cause harm and an autograder with SOTA performance at matching fine-grained human evaluations of jailbreak quality
+- Implemented tests of jailbreak effects on intelligence using Massive Multitask Language Understanding benchmark.
+- Fine-tuned LLM to develop cost-effective autograding method which can be run on a laptop CPU.
+
 **Concordia Consulting: AI Safety Affiliate (Jun 2023-Nov 2023)**
 - Project-based, ~10hrs/month
 - Translated and revised texts in English and Chinese about AI safety, including Chinese-language social media posts about technical AI safety for general audiences and translations of Chinese public figures' comments about AI safety for English-speaking audiences.
@@ -25,7 +31,7 @@ Note: I changed my first name late 2022 so some of my previous work is credited 
 - Developed a novel mathematical framework for ethically compliant autonomous systems capable of operating in partially observable domains.
 - Implemented simulated environments and solution method in Python and CPLEX.
 - Ran experiments on Linux server using Docker containers.
-- Drafted paper as first author, currently in submission for ICRA 2024.
+- Drafted paper as first author, accepted for ICRA 2024.
 
 **MIT Interactive Robotics Group: Undergraduate Researcher (Jan 2022-May 2022)**
 - Part time ~10hrs/week
