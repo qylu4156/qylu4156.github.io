@@ -4,7 +4,7 @@ A selection of projects completed for undergraduate research, internships, and c
 
 **This section of my website is currently under construction! I have listed brief summaries of projects I've completed, but am in the process of updating the corresponding detail pages for each.**
 
-Note: I changed my first name late 2022 so some of my previous work is credited under a different name.
+Note: I started going by my Chinese name in late 2022, so some of my previous work is credited under a different first name.
 
 
 ## Work Projects

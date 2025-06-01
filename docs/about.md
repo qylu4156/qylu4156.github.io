@@ -1,13 +1,15 @@
 # About me
 
-I graduated from MIT in June 2023 with a B.S in Computation and Cognition, an interdisciplinary degree which combines elements of Computer Science and Brain and Cognitive Sciences. I have been coding in various languages since middle school, and I am especially passionate about using computer science to build and study intelligence. I am invested in finding ways to make sure algorithms and AI models are safe and reliable as they have an increasing impact on people's daily lives.
+I graduated from MIT in June 2023 with a B.S in Computation and Cognition, an interdisciplinary degree which combines elements of Computer Science and Brain and Cognitive Sciences. I have been coding in various languages since middle school, and I chose this degree because I was fascinated by how studying natural intelligence can inspire us to create smarter technology. I'm passionate about creating high-quality products that address critical needs for customers, as well as finding ways to make sure algorithms and AI models are safe and reliable as they have an increasing impact on people's daily lives.
 
-As a recent graduate, I am currently looking for jobs in Software Engineering/Development to build practical skills in working on complicated software projects deployed in the real world, with a long-term goal of working in more research-related roles in the future.
-
-Note: I changed my first name late 2022 so some of my previous work is credited under a different name.
+Note: I started going by my Chinese name in late 2022, so some of my previous work is credited under a different first name.
 
 
 ## Work experiences
+**Applied Intuition: Software Engineer (Aug 2024-Present)**
+- Full-time position
+- Worked on Synthetic Datasets product which uses physics-based simulation to generate training data for ML models.
+
 **Center for Human-Compatible AI: Intern (Dec 2023-Jun 2024)**
 - Full-time internship
 - Created StrongREJECT, a novel benchmark for jailbreaking attacks against LLMs consisting of 346 prompts for evaluating the potential of jailbreak attacks to enable malicious actors to cause harm and an autograder with SOTA performance at matching fine-grained human evaluations of jailbreak quality
@@ -58,8 +60,10 @@ Note: I changed my first name late 2022 so some of my previous work is credited 
 **Programming languages**
 
 
-- Python (primary)
+- Python
+- Golang
 - JavaScript
+- SQL
 - Java
 - C++
 - Julia
@@ -72,6 +76,9 @@ Note: I changed my first name late 2022 so some of my previous work is credited 
 - Docker
 - Pytorch
 - TensorFlow
+- Bazel
+- Buildkite
+- Playwright
 - Google Apps Script
 - PsychoPy
 - Praat
@@ -84,15 +91,19 @@ Note: I changed my first name late 2022 so some of my previous work is credited 
 - Computer vision
 - Probabilistic programming
 - Bayesian approaches
+- Domain gap estimation and correction
 
 **Math and algorithms**: 
 - Algorithm design and runtime analysis
 - Data structures
 - Linear algebra
 - Probability and statistics
+- Data analysis
 - Differential equations
 - Signal processing
 
 **Miscellaneous**:
 - Linux
 - Mandarin Chinese (fluent)
+- CI/CD
+- Unit and integration testing
